@@ -1,0 +1,12 @@
+GIMP : https://www.gimp.org/downloads/
+Paint.NET : https://www.getpaint.net/download.html
+Darktable : https://www.darktable.org/install/
+RawTherapee : https://rawtherapee.com/downloads
+LightZone : https://lightzoneproject.org/download/
+Traitement de vidéos :
+
+DaVinci Resolve : https://www.blackmagicdesign.com/products/davinciresolve/
+Shotcut : https://shotcut.org/download/
+OpenShot : https://www.openshot.org/download/
+Blender : https://www.blender.org/download/
+Avidemux : https://fixounet.free.fr/avidemux/download.html
