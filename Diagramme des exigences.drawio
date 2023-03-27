@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-03-27T10:07:18.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I1LljqeNyDx90V448zzJ" version="21.1.1" type="device">
+  <diagram name="Page-1" id="f1rVvHNMQUA62914oBi5">
+    <mxGraphModel dx="2261" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Calcul de puissance&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;L&#39;application solariun doit assurer l&#39;estimation de la puissance souhaitée&quot;&lt;br&gt;Id=&quot;01&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="500" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Contenaire&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Augmenter la durer de vie du mobil Wat&quot;&lt;br&gt;Id=&quot;03&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Alimentation des villageois en électricité&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=Energie fournie au villageois&amp;nbsp;&amp;nbsp;&lt;br&gt;Id=&quot;02&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="35" width="240" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-27" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=0.029;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hHOoDy83xVP3b4VgY0AO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="330.8163265306123" as="sourcePoint" />
+            <mxPoint x="595.6206896551726" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Détecteur&amp;nbsp;de contrôle&amp;nbsp;par&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&amp;nbsp;Lora WAN&amp;nbsp;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Le Mobil Watt doit être dans le restau&amp;nbsp;&amp;nbsp;Lora WAN&amp;nbsp;&lt;br&gt;Id=&quot;04&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="214" y="300" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Formuler les besoins en puissance&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Remplir le formulaire sur le site solariun&quot;&lt;br&gt;Id=&quot;09.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="515" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Température&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;La température doit être respecté &quot;&lt;br&gt;Id=&quot;10&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Poids des&lt;/b&gt;&lt;/p&gt;&lt;b&gt;panneaux&lt;/b&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Le seuil du poids doit être respecté&quot;&lt;br&gt;Id=&quot;11&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="627" y="530" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Taux&amp;nbsp;d&#39;humidité&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le seuil d&#39;humidité doit être respectée&quot;&lt;br&gt;Id=&quot;12&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="540" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-22" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-17" target="hHOoDy83xVP3b4VgY0AO-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="560" y="490" as="sourcePoint" />
+            <mxPoint x="600" y="422" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-23" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;entryX=0.54;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-18" target="hHOoDy83xVP3b4VgY0AO-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="810" y="540" as="sourcePoint" />
+            <mxPoint x="827" y="421" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-24" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="hHOoDy83xVP3b4VgY0AO-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1050" y="550" as="sourcePoint" />
+            <mxPoint x="1050" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Capteur&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Récupération de Température , de Poids et D&#39;humidité&quot;&lt;br&gt;Id=&quot;7.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="250" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-30" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=0.421;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-28" target="hHOoDy83xVP3b4VgY0AO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="280" as="sourcePoint" />
+            <mxPoint x="797" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Application&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Affichage, des donnée , &quot;&lt;br&gt;Id=&quot;01.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="40" width="200" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-35" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;entryX=0.41;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.44;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-6" target="hHOoDy83xVP3b4VgY0AO-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-140" y="500" as="sourcePoint" />
+            <mxPoint x="-10" y="250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-36" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;entryX=0.41;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-90" y="504.5" as="sourcePoint" />
+            <mxPoint x="-76" y="145.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-37" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=0.195;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-32" target="hHOoDy83xVP3b4VgY0AO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340.8163265306123" as="sourcePoint" />
+            <mxPoint x="560" y="174" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hHOoDy83xVP3b4VgY0AO-39" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hHOoDy83xVP3b4VgY0AO-7" target="hHOoDy83xVP3b4VgY0AO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668" y="211" as="sourcePoint" />
+            <mxPoint x="609" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
