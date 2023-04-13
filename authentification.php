@@ -50,7 +50,7 @@ if(isset($_POST['clickButton'])){// on verifie si le visiteur à cliquer sur le 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>authentification</title>
-    <link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="authentification.css" media="screen" type="text/css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
@@ -65,12 +65,14 @@ if(isset($_POST['clickButton'])){// on verifie si le visiteur à cliquer sur le 
 <form  method="POST">
  <h1>Connexion</h1>
  
- <label><b>Nom d'utilisateur ou email</b></label>
+ <label><b>Identifiant ou email</b></label>
  <div class="inputBox">
  <input type="text" placeholder="Entrer le nom d'utilisateur" name="Identifiant" required>
  <label><b>Mot de passe</b></label>
  <input type="password" placeholder="Entrer le mot de passe" name="mot_de_passe" required>
+
  <input type="submit" id='submit' name="clickButton" value='CONNEXION' >
+ 
  </div>
 <div class="erreur">
  <?php 
