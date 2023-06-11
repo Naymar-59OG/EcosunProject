@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("./img/img4jpg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+form{
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background:  rgba(255, 255, 255, .2);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 5.2), 0 5px 5px 0 rgba(0, 0, 0, .175);
+    border-radius: 20px;
+    font-family: 'Poppins',Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+#container{
+    width:300px;
+    margin:0 auto;
+    margin-top:10%;
+
+
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+   }
+
+input[type=submit] {
+    background-color: #0d6c71;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+   }
+
+input[type=submit]:hover {
+    background-color: white;
+    color: #0d6c71;
+    border: 1px solid #0d6c71;
+   }
+form{
+
+    color:black;
+}
+h1{
+    color: #1b3234
+}
+.message1{
+    color: red;
+}
+.message2{
+    color: green;
+}
